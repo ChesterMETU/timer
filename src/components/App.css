@@ -1,0 +1,57 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.setTimer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.font-size-25 {
+  font-size: 25px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+  background-color: aquamarine;
+  margin-bottom: 15px;
+}
+
+.header-title-container {
+  font-size: 26px;
+}
+
+.timer-information-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timer-button-container {
+  display: flex;
+  gap: 5px;
+}
+
+.timer-button {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.lap-timers-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.lap-item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
